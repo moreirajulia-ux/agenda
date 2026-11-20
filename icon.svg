@@ -4,6 +4,7 @@
 <rect width="512" height="512" fill="url(#bgv2)"/>
 <g filter="url(#shv2)"><rect x="104" y="140" width="304" height="268" rx="42" fill="#FFFBF8"/></g>
 <path d="M104 182 a42 42 0 0 1 42 -42 h220 a42 42 0 0 1 42 42 v42 h-304z" fill="#D9A294"/>
-<rect x="176" y="110" width="22" height="60" rx="11" fill="#FBEDE7"/><rect x="314" y="110" width="22" height="60" rx="11" fill="#FBEDE7"/>
+<rect x="146" y="110" width="22" height="60" rx="11" fill="#FBEDE7"/><rect x="344" y="110" width="22" height="60" rx="11" fill="#FBEDE7"/>
+<text x="256" y="203" text-anchor="middle" font-family="Instrument Serif, Georgia, serif" font-style="italic" font-size="58" fill="#0D4D4F">Julia</text>
 <circle cx="158" cy="286" r="10" fill="#EADFDB"/><circle cx="207" cy="286" r="10" fill="#D9A294"/><circle cx="256" cy="286" r="10" fill="#EADFDB"/><circle cx="305" cy="286" r="10" fill="#EADFDB"/><circle cx="354" cy="286" r="10" fill="#0D4D4F"/><circle cx="158" cy="332" r="10" fill="#EADFDB"/><circle cx="207" cy="332" r="10" fill="#EADFDB"/><circle cx="256" cy="332" r="15" fill="none" stroke="#A24E34" stroke-width="5"/><circle cx="256" cy="332" r="7" fill="#A24E34"/><circle cx="305" cy="332" r="10" fill="#BF8B2E"/><circle cx="354" cy="332" r="10" fill="#EADFDB"/><circle cx="158" cy="378" r="10" fill="#6F6B37"/><circle cx="207" cy="378" r="10" fill="#EADFDB"/><circle cx="256" cy="378" r="10" fill="#EADFDB"/><circle cx="305" cy="378" r="10" fill="#A24E34"/><circle cx="354" cy="378" r="10" fill="#EADFDB"/>
 </svg>
